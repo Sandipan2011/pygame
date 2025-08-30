@@ -1,0 +1,5 @@
+Sound files needed:
+- crash.wav: Sound played when car collides with obstacle
+- score.wav: Sound played when obstacle passes off-screen
+
+These files should be placed in the assets folder for full audio experience.
